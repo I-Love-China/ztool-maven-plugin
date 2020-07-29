@@ -1,6 +1,6 @@
 package com.aliyun.code.typist.components.content;
 
-import com.aliyun.code.typist.Util;
+import com.aliyun.code.typist.components.util.Util;
 import com.google.common.base.Charsets;
 import org.apache.commons.io.FileUtils;
 

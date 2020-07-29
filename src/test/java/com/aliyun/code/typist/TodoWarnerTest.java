@@ -1,5 +1,6 @@
 package com.aliyun.code.typist;
 
+import com.aliyun.code.typist.Mojo.TodoWarner;
 import org.apache.maven.plugin.testing.MojoRule;
 import org.apache.maven.plugin.testing.resources.TestResources;
 import org.apache.maven.project.MavenProject;

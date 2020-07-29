@@ -1,4 +1,4 @@
-package com.aliyun.code.typist;
+package com.aliyun.code.typist.components.util;
 
 import com.google.common.primitives.Ints;
 

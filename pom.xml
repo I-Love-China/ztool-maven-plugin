@@ -4,7 +4,7 @@
     <groupId>com.aliyun.code.typist</groupId>
     <artifactId>ztool-maven-plugin</artifactId>
     <packaging>maven-plugin</packaging>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0</version>
     <name>ztool-maven-plugin Maven Mojo</name>
     <url>http://maven.apache.org</url>
 
@@ -54,7 +54,7 @@
         <dependency>
             <groupId>org.junit.jupiter</groupId>
             <artifactId>junit-jupiter</artifactId>
-            <version>RELEASE</version>
+            <version>5.7.0-M1</version>
             <scope>compile</scope>
         </dependency>
 

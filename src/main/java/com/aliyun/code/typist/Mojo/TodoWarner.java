@@ -1,5 +1,6 @@
-package com.aliyun.code.typist;
+package com.aliyun.code.typist.Mojo;
 
+import com.aliyun.code.typist.components.util.Util;
 import com.aliyun.code.typist.components.checker.TodoChecker;
 import com.aliyun.code.typist.components.content.Comment;
 import com.aliyun.code.typist.components.extractor.CommentExtractor;

@@ -1,4 +1,4 @@
-package com.aliyun.code.typist;
+package com.aliyun.code.typist.Mojo;
 
 /*
  * Copyright 2001-2005 The Apache Software Foundation.

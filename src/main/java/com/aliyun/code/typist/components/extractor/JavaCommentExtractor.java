@@ -1,6 +1,6 @@
 package com.aliyun.code.typist.components.extractor;
 
-import com.aliyun.code.typist.Util;
+import com.aliyun.code.typist.components.util.Util;
 
 import java.io.File;
 

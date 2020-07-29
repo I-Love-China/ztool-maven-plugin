@@ -1,6 +1,6 @@
 package com.aliyun.code.typist.components.content;
 
-import com.aliyun.code.typist.Util;
+import com.aliyun.code.typist.components.util.Util;
 
 import java.io.File;
 import java.util.Collections;
